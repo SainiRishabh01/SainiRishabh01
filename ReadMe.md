@@ -13,5 +13,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=SainiRishabh01&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SainiRishabh01&label=598&pretty=false)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=SainiRishabh01&label=598&pretty=false" />
+</a><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
